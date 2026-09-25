@@ -1,4 +1,5 @@
 📌 Project Overview
+
 Stock ROI Analyzer is a C# Windows Forms application designed to calculate and analyze the Return on Investment (ROI) of stocks from five different companies.
 The application allows users to enter investment details, calculate profit or loss after applicable taxes, compare multiple companies, and identify the company with the highest ROI.
 
